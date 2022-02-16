@@ -2,3 +2,11 @@ file1
 file2
 LICENSE
 README.md
+total 64
+drwxrwxr-x  3 mhamdi mhamdi  4096 Feb 16 21:18 .
+drwxr-xr-x 10 mhamdi mhamdi  4096 Feb 16 21:04 ..
+-rw-rw-r--  1 mhamdi mhamdi  8125 Feb 16 21:16 file1
+-rw-rw-r--  1 mhamdi mhamdi    30 Feb 16 21:18 file2
+drwxrwxr-x  8 mhamdi mhamdi  4096 Feb 16 21:23 .git
+-rw-rw-r--  1 mhamdi mhamdi 35149 Feb 16 21:04 LICENSE
+-rw-rw-r--  1 mhamdi mhamdi   235 Feb 16 21:04 README.md
