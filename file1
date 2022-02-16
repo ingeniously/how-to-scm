@@ -1,5 +1,6 @@
 Hello world
 Some text I inserted to delete after a commit
+<<<<<<< HEAD
 LS(1)                                                              User Commands                                                             LS(1)
 
 NAME
@@ -215,3 +216,6 @@ SEE ALSO
        or available locally via: info '(coreutils) ls invocation'
 
 GNU coreutils 8.30                                                September 2019                                                             LS(1)
+=======
+A line added from github. I am going to check a merge after two commits on the same file.
+>>>>>>> 6455aadf85107f1f71361290b0abc906ea0dcf96
